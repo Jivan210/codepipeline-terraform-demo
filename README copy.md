@@ -55,11 +55,6 @@ flowchart TD
   C3 --> D3
 ```
 
-
-## 🌐 Live Demo
-
-[https://github.com/Ayush-silicon/DevOps-Masters-Project](https://github.com/Ayush-silicon/DevOps-Masters-Project)
-
 ## ✨ Features
 
 -   ⚙️ **End-to-end AWS CodePipeline**: Fully provisioned with Terraform (Source, Build, Deploy).
@@ -472,7 +467,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Author Name:** Jivan Jyoti pal
+**Author Name:** Jivan Jyoti Pal
 
 **Email:**  jivanjyoti.pal@gmail.com
 
